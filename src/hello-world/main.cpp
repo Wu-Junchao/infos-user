@@ -7,6 +7,6 @@
 
 int main(const char *cmdline)
 {
-    // TODO: Implement me!
+    printf("Hello, world!\n");
     return 0;
 }
